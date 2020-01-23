@@ -1,0 +1,36 @@
+{
+    "name": "Golos, Tireless Pilgrim",
+    "manaCost": "{5}",
+    "cmc": 5,
+    "colors": [],
+    "colorIdentity": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+    ],
+    "type": "Legendary Artifact Creature — Scout",
+    "supertypes": [
+        "Legendary"
+    ],
+    "types": [
+        "Artifact",
+        "Creature"
+    ],
+    "subtypes": [
+        "Scout"
+    ],
+    "rarity": "Rare",
+    "set": "M20",
+    "setName": "Core Set 2020",
+    "text": "When Golos, Tireless Pilgrim enters the battlefield, you may search your library for a land card, put that card onto the battlefield tapped, then shuffle your library.\n{2}{W}{U}{B}{R}{G}: Exile the top three cards of your library. You may play them this turn without paying their mana costs.",
+    "artist": "Joseph Meehan",
+    "number": "226",
+    "power": "3",
+    "toughness": "5",
+    "layout": "normal",
+    "multiverseid": 466980,
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466980&type=card",
+    "id": "f376db9f-a94b-5268-a59d-1367e03ef2d8"
+}

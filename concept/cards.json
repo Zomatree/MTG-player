@@ -1,0 +1,26 @@
+{
+    "format": "commander",
+    "metadata": {
+        "deckname": "golos",
+        "commander": "golos, tireless pilgrim",
+        "description": "yeah"
+    },
+    "custom cards": {
+        "Card Name": {
+            "cost": "1w 1b 3bl",
+            "image": "url",
+            "rarity": "mythic",
+            "border": "white",
+            "type": ["enchantment", "creature"],
+            "subtypes": ["minotaur"],
+            "effect": "[[tap]]: tap target nonland perminant",
+            "flavor": "tappy tap tap",
+            "power": 4,
+            "toughness": 3
+        }
+    },
+    "cards": {
+        "1": "",
+        "1": ""
+    }
+}
