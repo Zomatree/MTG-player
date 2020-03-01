@@ -3,4 +3,8 @@ class NotCard(Exception):
 
 
 class ImageRequestFailed(Exception):
-    """Getting the image for a card failed"
+    """Getting the image for a card failed"""
+
+
+class NotLegendary(Exception):
+    """The Card is not legendary when it is required to be"""

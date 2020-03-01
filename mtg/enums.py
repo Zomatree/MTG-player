@@ -16,3 +16,27 @@ class Rarity(Enum):
     uncommon = auto()
     rare = auto()
     mythic = auto()
+
+
+class CardType(Enum):
+    creature = auto()
+    land = auto()
+    artifact = auto()
+    enchantment = auto()
+    sorcery = auto()
+    planeswalker = auto()
+    instant = auto()
+
+
+class SuperTypes(Enum):
+    basic = auto()
+    legendary = auto()
+    snow = auto()
+
+
+class ButtonType(Enum):
+    rect = 1
+    polygon = 2
+    circle = 3
+    ellipse = 4
+    image = 5
